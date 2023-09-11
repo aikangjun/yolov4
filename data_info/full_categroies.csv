@@ -1,0 +1,81 @@
+,id_in_model,id_in_coco,supercategory,name
+0,0.0,1.0,person,person
+1,1.0,2.0,vehicle,bicycle
+2,2.0,3.0,vehicle,car
+3,3.0,4.0,vehicle,motorcycle
+4,4.0,5.0,vehicle,airplane
+5,5.0,6.0,vehicle,bus
+6,6.0,7.0,vehicle,train
+7,7.0,8.0,vehicle,truck
+8,8.0,9.0,vehicle,boat
+9,9.0,10.0,outdoor,traffic light
+10,10.0,11.0,outdoor,fire hydrant
+11,11.0,13.0,outdoor,stop sign
+12,12.0,14.0,outdoor,parking meter
+13,13.0,15.0,outdoor,bench
+14,14.0,16.0,animal,bird
+15,15.0,17.0,animal,cat
+16,16.0,18.0,animal,dog
+17,17.0,19.0,animal,horse
+18,18.0,20.0,animal,sheep
+19,19.0,21.0,animal,cow
+20,20.0,22.0,animal,elephant
+21,21.0,23.0,animal,bear
+22,22.0,24.0,animal,zebra
+23,23.0,25.0,animal,giraffe
+24,24.0,27.0,accessory,backpack
+25,25.0,28.0,accessory,umbrella
+26,26.0,31.0,accessory,handbag
+27,27.0,32.0,accessory,tie
+28,28.0,33.0,accessory,suitcase
+29,29.0,34.0,sports,frisbee
+30,30.0,35.0,sports,skis
+31,31.0,36.0,sports,snowboard
+32,32.0,37.0,sports,sports ball
+33,33.0,38.0,sports,kite
+34,34.0,39.0,sports,baseball bat
+35,35.0,40.0,sports,baseball glove
+36,36.0,41.0,sports,skateboard
+37,37.0,42.0,sports,surfboard
+38,38.0,43.0,sports,tennis racket
+39,39.0,44.0,kitchen,bottle
+40,40.0,46.0,kitchen,wine glass
+41,41.0,47.0,kitchen,cup
+42,42.0,48.0,kitchen,fork
+43,43.0,49.0,kitchen,knife
+44,44.0,50.0,kitchen,spoon
+45,45.0,51.0,kitchen,bowl
+46,46.0,52.0,food,banana
+47,47.0,53.0,food,apple
+48,48.0,54.0,food,sandwich
+49,49.0,55.0,food,orange
+50,50.0,56.0,food,broccoli
+51,51.0,57.0,food,carrot
+52,52.0,58.0,food,hot dog
+53,53.0,59.0,food,pizza
+54,54.0,60.0,food,donut
+55,55.0,61.0,food,cake
+56,56.0,62.0,furniture,chair
+57,57.0,63.0,furniture,couch
+58,58.0,64.0,furniture,potted plant
+59,59.0,65.0,furniture,bed
+60,60.0,67.0,furniture,dining table
+61,61.0,70.0,furniture,toilet
+62,62.0,72.0,electronic,tv
+63,63.0,73.0,electronic,laptop
+64,64.0,74.0,electronic,mouse
+65,65.0,75.0,electronic,remote
+66,66.0,76.0,electronic,keyboard
+67,67.0,77.0,electronic,cell phone
+68,68.0,78.0,appliance,microwave
+69,69.0,79.0,appliance,oven
+70,70.0,80.0,appliance,toaster
+71,71.0,81.0,appliance,sink
+72,72.0,82.0,appliance,refrigerator
+73,73.0,84.0,indoor,book
+74,74.0,85.0,indoor,clock
+75,75.0,86.0,indoor,vase
+76,76.0,87.0,indoor,scissors
+77,77.0,88.0,indoor,teddy bear
+78,78.0,89.0,indoor,hair drier
+79,79.0,90.0,indoor,toothbrush

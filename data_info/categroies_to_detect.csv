@@ -1,0 +1,4 @@
+id_in_model,id_in_coco,supercategory,name
+0.0,1.0,person,person
+7.0,8.0,vehicle,truck
+8.0,9.0,vehicle,boat
